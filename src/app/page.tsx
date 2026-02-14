@@ -15,7 +15,7 @@ export default function LoginPage() {
   
   // IMPORTANT: HTML date inputs use YYYY-MM-DD format behind the scenes.
   // So for Dec 19, 2024, we must write it as "2024-12-19"
-  const FIRST_MEET_DATE = "2024-12-19"; 
+  const FIRST_MEET_DATE = "2004-11-01"; 
   // --- CONFIGURATION END ---
 
   const [inputName, setInputName] = useState('');
