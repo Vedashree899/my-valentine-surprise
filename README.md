@@ -32,7 +32,7 @@ Follow these steps to run the project locally on your machine.
 
 ### **1. Clone the Repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/my-valentine-surprise.git](https://github.com/YOUR_USERNAME/my-valentine-surprise.git)
+git clone https://github.com/pugazh342/my-valentine-surprise.git
 cd my-valentine-surprise
 ```
 
@@ -106,4 +106,5 @@ In 1 minute, Vercel will give you a live link (e.g., `https://my-valentine-surpr
 - **Update Timeline:** Edit the `TIMELINE_EVENTS` array in `src/app/surprise/page.tsx`.
 - **Change Colors:** Modify `tailwind.config.ts` to change the `love` color palette.
 
-Made with ❤️ by [Your Name]
+
+Made with ❤️ by Pugazhmani .K
